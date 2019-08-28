@@ -2,6 +2,8 @@
 .cproject
 .settings/
 *.xusb.bin
+*.o
+*.d
 
 *.elf
 *.map
