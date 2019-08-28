@@ -1,0 +1,9 @@
+.project
+.cproject
+.settings/
+*.xusb.bin
+
+*.elf
+*.map
+
+~./NuWriterFW/xusb64.bin
